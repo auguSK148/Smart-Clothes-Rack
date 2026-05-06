@@ -6,11 +6,17 @@
 ในเว็บไซต์มีข้อมูล
 
 -Windspeed
+
 -Temperature
+
 -Humidity
+
 -Pressure
+
 -Precipitation
+
 -Visibility
+
 ข้อมูลมีช่วงเวลาตั้งแต่ปี 2007-2026
 
 โดยจะเลือกเก็บข้อมูลของสถานี 0037 Bangna Agrometeorlogical Station(อยู่ใกล้บ้านผม)
