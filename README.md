@@ -32,7 +32,7 @@
 
 และได้ลองนำ Data มาเข้าใส่ตารางแล้ว 1 ปี(2008) อยู่ในช่อง data.csv
 
-# EDA ของ Data(ปี 2008)
+# ค่าสถิติ ของ Data(ปี 2008)
  
 |index|Avg-W|Max-W|Avg-T|Max-T|Min-T|Avg-H|Max-H|Min-H|Avg-P|Max-P|Min-P|Avg-V|Max-V|Min-V|Pre|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
